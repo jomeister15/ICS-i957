@@ -1,0 +1,8 @@
+Welcome to the ICS-i957 github page!
+
+Please keep in mind that this is not source ready to be compiled, it is simply the output from the compiled Code Aurora source that is ready to be
+zipped into a rom.
+
+Please feel free to add yourself as a contributor... I'll take all the help I can get.
+
+Currently this build lacks the ability to boot... so please don't flash unless you know what you're doing.
